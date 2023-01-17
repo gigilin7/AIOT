@@ -1,2 +1,2 @@
-# IOT
-homework and project with Internet of Things (IoT) Data Analysis and Applications
+# Requirement
+<img src="https://github.com/gigilin7/AIOT/blob/main/SVM/requirement.jpg" width="600" />
