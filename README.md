@@ -1,2 +1,8 @@
-# IOT
-homework and project with Internet of Things (IoT) Data Analysis and Applications
+# Homework
++ 50_startups
++ CNN
++ SVM
++ Web
+
+# Project
+[美食推薦系統](https://github.com/dan890407/food_recommand_ai)
