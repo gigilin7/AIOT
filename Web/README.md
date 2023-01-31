@@ -98,7 +98,7 @@ with gzip.open('./mySVCModel.pgz', 'r') as f:
 ```
 <img src="https://user-images.githubusercontent.com/43805264/215708949-7525787d-c0fe-4f7f-ad02-8034108f17c9.png" width="500" />
 
-## Part 4
+## Part 4 (練習)
 
 + 自己寫一個app.py練習 (放在flask_test資料夾)
 
@@ -112,7 +112,8 @@ with gzip.open('./mySVCModel.pgz', 'r') as f:
 
 <img src="https://user-images.githubusercontent.com/43805264/215709786-d112a9ad-279c-42ca-8bdc-ef40dc298af1.png" width="400" />
 
-+ 正式做part4
+## Part 4
+
 + 使用Part 2=From PHP to Flask Basics 資料夾(用裡面的step4資料夾)
 + 執行app.py得到下圖
 
