@@ -8,6 +8,7 @@
 
 [美食推薦系統](https://github.com/dan890407/food_recommand_ai)
 
++ Front-end framework : `Bootstrap`
 + Result
 <img src="https://user-images.githubusercontent.com/43805264/213113225-f2ae0a49-2c73-40c7-aa15-1f302d87c940.png" width="500" />
 
